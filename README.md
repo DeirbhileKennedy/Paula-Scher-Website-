@@ -4,4 +4,4 @@ IXD102 Design Essay
 Paula Scher 
 -----------
 
-[Paula Scher Website](https://deirbhilekennedy.github.io/paula-scher-website-/paula_scher.html)
+[Paula Scher Website](https://deirbhilekennedy.github.io/Paula-Scher-Website-/paula_scher.html)
