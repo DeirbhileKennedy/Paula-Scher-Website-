@@ -85,16 +85,10 @@ p, li, blockquote {
     margin-bottom: 1.em;
     line-height: 1.7;
     
-    
-    
 }
 
  p{
     font-family: 'verdana', sans-serif;
-   
-
-
-    
 }
 
 h1 {
@@ -106,16 +100,14 @@ h1 {
 h2 {
     font-size: 2.5em;
     margin-bottom: 1em 1;
-}
-
 
 }
 
 blockquote {
     padding: 2em 0 2em 0;
-    font-size: m;
+    font-size: 2em;
     line-height: 1em;
-    color:	  #ffffff;
+    color:	  #ffb3b3;
     font-style: italic;
     text-align: center
 }
