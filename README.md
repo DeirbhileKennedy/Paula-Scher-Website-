@@ -1,4 +1,4 @@
 # Paula-Scher-Website-
 ixd102 Paula Scher essay
 
-[Paula Scher Website](https://deirbhilekennedy.github.io/paula-scher-website-/Paula_scher.html)
+[Paula Scher Website](https://deirbhilekennedy.github.io/paula-scher-website-/paula_scher.html)
